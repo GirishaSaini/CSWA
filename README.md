@@ -1,6 +1,6 @@
 # CSWA
 
-A collection of solidworks CSWA practice models recreated for learning and skill development.
+A collection of solidworks CSWA practice models recreated (in solidworks) for learning and skill development.
 
 ## References
 
@@ -13,4 +13,7 @@ A collection of solidworks CSWA practice models recreated for learning and skill
 
 - **12-08-2026** – CSWA_10_2, CSWA_10_3
   <img width="220.57" height="142" alt="CSWA_10_2" src="https://github.com/user-attachments/assets/e15dbe4b-87c5-4382-8411-57662bebd2ed" />  <img width="205.14" height="170.57" alt="CSWA_10_3" src="https://github.com/user-attachments/assets/dba8d59d-ae47-4553-9749-146356b32362" />
+
+- **14-08-2026** – CSWA_10_4
+  <img width="205.42" height="204.57" alt="CSWA_10_4" src="https://github.com/user-attachments/assets/c9f8028a-3b9f-415d-a36d-9404ecc5a82f" />
 
