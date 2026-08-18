@@ -19,5 +19,5 @@ A collection of solidworks CSWA practice models recreated (in solidworks) for le
 
 - **15-08-2026** – CSWA_10_5A, CSWA_10_5B
   <img width="226.28" height="156" alt="CSWA_10_5A" src="https://github.com/user-attachments/assets/0416847b-683b-41be-b7f1-a75f5fd77af4" />  <img width="234" height="166.57" alt="CSWA_10_5B" src="https://github.com/user-attachments/assets/ef95953f-b216-4216-b9d2-6240b40f346b" />
-
-
+- **17-08-2026** – CSWA_10_6
+  <img width="194.85" height="170.57" alt="CSWA_10_6" src="https://github.com/user-attachments/assets/3ea4aebe-74f7-47c5-88d1-39fc3ef17403" />
